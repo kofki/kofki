@@ -36,7 +36,7 @@
 <table>
 <tr>
 <td><img src="https://media1.tenor.com/m/uhwtxpj7Oq8AAAAC/surfing-pikachu.gif" width="120"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofki&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/kofki/kofki/output/github-contribution-grid-snake-dark.svg" width="100%"/></td>
 </tr>
 </table>
 
