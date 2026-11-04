@@ -21,7 +21,7 @@
 ### Connect
 
 - 💼 [linkedin.com/in/kenzo-fukuda](https://www.linkedin.com/in/kenzo-fukuda/)
-- 📧 kenzof28@gmail.com
+- 📧 kenzo@beachlens.net (BeachLens & business) · recruiters: LinkedIn above
 
 ---
 
